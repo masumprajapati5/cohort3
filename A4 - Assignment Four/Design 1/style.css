@@ -11,8 +11,9 @@ body {
 }
 
 main {
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 3.5fr 2fr 2fr 2.5fr;
@@ -21,7 +22,7 @@ main {
     "left-top center center right-top"
     "center-left center center right-bottom"
     "left-bottom left-bottom center-bottom right-bottom";
-  gap: 12px;
+  gap: 16px;
   padding: 20px;
   background-color: #111;
 }
