@@ -267,11 +267,12 @@ body {
     align-items: center;
     gap: 12px;
     color: white;
+    padding: 10px 0;
     /* padding:24px; */
 }
 
 .clients-box i {
-    font-size: 80px;
+    font-size: 60px;
 }
 
 .clients-box p {
@@ -281,6 +282,7 @@ body {
 }
 
 .sphere {
+    padding: 10px 0;
     grid-area: sphere;
     background: black;
     border-radius: 20px;
@@ -299,7 +301,7 @@ body {
     grid-area: award;
     background: #FEC267;
     border-radius: 20px;
-    padding: 11px 80px;
+    padding: 13px 80px;
     display: flex;
     flex-direction: column;
     justify-content: center;
