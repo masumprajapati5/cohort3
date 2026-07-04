@@ -508,6 +508,7 @@ header {
 
 .section4content input:focus {
     width: 100%;
+    /* width: 89%; */
 }
 
 .section4content input::placeholder {
