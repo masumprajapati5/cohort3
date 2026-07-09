@@ -759,6 +759,7 @@ header {
     color: #201C1A;
     margin-top: 20px;
     font-weight: 300;
+    /* font-weight: 500; */
 }
 
 .review-bottom {
