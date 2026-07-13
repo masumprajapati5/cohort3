@@ -975,6 +975,7 @@ header {
 .section9 .bottom {
     width: 95%;
     margin: auto;
+    /* margin: 10px 20px; */
     min-height: 700px;
     display: flex;
     border: 1px solid black;
