@@ -1079,6 +1079,7 @@ header {
     color: #201C1A;
     max-width: 850px;
     margin: 100px auto;
+    /* padding: 0 30px; */
     line-height: 1.15;
 }
 
