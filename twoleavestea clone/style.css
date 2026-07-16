@@ -1098,6 +1098,7 @@ header {
 
 .section10 .bottom::-webkit-scrollbar {
     display: none;
+    /* display: block; */
 }
 
 .recipe-card {
