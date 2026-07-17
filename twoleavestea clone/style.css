@@ -1150,6 +1150,7 @@ header {
     color: #201C1A;
     letter-spacing: 0.5px;
     text-transform: uppercase;
+    /* width: fit-content; */
 }
 
 .recipe-footer {
