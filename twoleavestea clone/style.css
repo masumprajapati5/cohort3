@@ -1162,7 +1162,7 @@ header {
 }
 
 .recipe-footer p {
-    font-family: robotomono, monospace;
+    font-family: robotomono;
     font-size: 15px;
     color: #201C1A;
     text-transform: uppercase;
