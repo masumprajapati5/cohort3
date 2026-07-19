@@ -1173,7 +1173,7 @@ header {
 .section10>.teas {
     display: block;
     margin: 60px auto 0;
-    font-family: figtree, sans-serif;
+    font-family: figtree;
     font-size: 18px;
     font-weight: 400;
     padding: 15px 50px;
