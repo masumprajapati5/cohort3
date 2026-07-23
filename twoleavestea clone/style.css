@@ -1412,7 +1412,7 @@ header {
 .col ul li a:hover {
     text-decoration: underline;
     text-decoration-color: #fff;
-    color: #fff;
+    color:white;
 }
 
 .section-13 {
